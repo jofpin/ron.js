@@ -8,6 +8,15 @@ Ron > is inspired in the name of a liqueur
 ```js
 // You start your application with (ron) as well.
  app["nameApp"] = ron; // (NameApp), is the name of my application!
+ 
+ ```
+ 
+* Example:
+
+```js
+// Example code ()
+// You start your application with (ron) as well.
+ app["nameApp"] = ron; // (NameApp), is the name of my application!
 
 // You can put rum or the name of your application, to perform the functions that are available in (ron)
 // preview example: <h1 id="example">{{test}}</h1>
