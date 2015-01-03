@@ -32,7 +32,8 @@ You can include this library in your application, to facilitate the writing a bi
            ron.log("Testing console);
            
            // error(), execution error in console!
-           ron.error("Error in console);
+           ron.error("Error in console");
+           
         // preview html
         ron.html("<h1>Demo ron.js</h1>");
         // URL or path to a file .css to load! > example: ron.runJS("assets/css/styles.css");
