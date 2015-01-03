@@ -51,7 +51,7 @@ You can include this library in your application, to facilitate the writing a bi
     
 ```
 * This uses gumok.js as a basis for (template)
-* 
+
 -------------
 
 Copyright, 2015 by [Jose Pino](http://twitter.com/jofpin)
