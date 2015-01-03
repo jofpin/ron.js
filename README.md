@@ -3,7 +3,9 @@ ron.js
 
 Small Javascript script simplified (In construction)
 
-Ron > is inspired in the name of a liqueur
+Ron > is inspired in the name of a liqueur.
+
+You can include this library in your application, to facilitate the writing a bit!
 
 ```js
 // You start your application with (ron) as well.
