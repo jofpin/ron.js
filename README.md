@@ -24,7 +24,7 @@ You can include this library in your application, to facilitate the writing a bi
     nameApp.ron({
       demo: function() {
       // template (gumok) in ron.js
-           ron.view("#example",{
+           ron.gumok("#example",{
              test: "<h1>ron.js template</h1>"
            });
            
