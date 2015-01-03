@@ -3,6 +3,7 @@ ron.js
 
 Small Javascript script simplified (In construction)
 
+Ron > is inspired in the name of a liqueur
 
 ```js
 // You start your application with (ron) as well.
