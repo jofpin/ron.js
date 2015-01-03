@@ -91,7 +91,7 @@ var ron = (function(){
     template: function(element, args) {
       var query = main.docu.querySelector(element);
       var body = query.innerHTML;
-      var running = this.gumok(body ,args);
+      var running = ron.gumok(body ,args);
       query.innerHTML = running; 
     },
     runJS: function(src, train) {
