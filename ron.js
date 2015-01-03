@@ -71,7 +71,7 @@ var ron = (function(){
     timer: function(elements) {
       setTimeout(elements);
     },
-    gumok: function(body, data) { 
+    seting: function(body, data) { 
       var unions = body.split(main.regex);
       var count = unions.length;
       for (var id = 1; id < count; id += 2) {
@@ -88,10 +88,10 @@ var ron = (function(){
       return unions.join(main.reset);
     },
     // The magic starts here...
-    view: function(element, args) {
+    gumok: function(element, args) {
       var query = main.docu.querySelector(element);
       var body = query.innerHTML;
-      var running = ron.gumok(body ,args);
+      var running = ron.seting(body ,args);
       query.innerHTML = running; 
     },
     runJS: function(src, train) {
