@@ -9,7 +9,7 @@
  * https://github.com/jofpin/ron.js
  *
  * ============================
- * Copyright, 2014 by Jose Pino
+ * Copyright, 2015 by Jose Pino
  * https://twitter.com/jofpin
  * ============================
  */
