@@ -39,3 +39,9 @@ Small Javascript script simplified (In construction)
     nameApp.run();
     
 ```
+
+-------------
+
+Copyright, 2015 by [Jose Pino](http://twitter.com/jofpin)
+
+-------------
