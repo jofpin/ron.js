@@ -88,7 +88,7 @@ var ron = (function(){
       return unions.join(main.reset);
     },
     // The magic starts here...
-    template: function(element, args) {
+    view: function(element, args) {
       var query = main.docu.querySelector(element);
       var body = query.innerHTML;
       var running = ron.gumok(body ,args);
