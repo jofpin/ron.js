@@ -110,4 +110,4 @@ var ron = (function(){
   // return life {}
   return life;
 
-})(app = this || this);
+})(app = this);
